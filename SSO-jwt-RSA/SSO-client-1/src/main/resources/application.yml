@@ -1,0 +1,10 @@
+services:
+  auth: http://native.yanxiaoping.top:8080/login
+
+server:
+  port: 8881
+
+privateKeyStrq: MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDQP2LY/DO8arTxS8IaUgaYYX0q
+  QVy4dFPljtFBIqiy0g74GTD5UnDAsoTEIdbKonxqDFnn4e0zx5tVP5Ge1Gw45l2V
+  ixBpnwMR9Q0xAte5Aoc2W/SQ54OnuPSXGekydhJC8Kb/Mn3zLOLBP34Z/1N9FTn6
+  fz+OfrFjaAG9KWACgwIDAQAB
